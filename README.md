@@ -43,6 +43,7 @@ Propriedades na inserção de uma nova tarefa: Titulo da tarefa, descrição da 
    git clone (https://github.com/parthur207/Task-Service.git)
    
 2. Abra o projeto em seu ambiente de desenvolvimento C# preferido e execute-o.
+
    
 ## Estrutura do Projeto
 
