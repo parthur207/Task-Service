@@ -1,6 +1,6 @@
 # ETAPA 2 - Gerenciador de Tarefas
 
-##Descrição
+## Descrição
 
 Este projeto é um Sistema de gestão de Tarefas desenvolvido em C#. O sistema oferece muitas funcionalidades úteis, permitindo adicionar, remover, atualizar, listar e verificar o status de tarefas.
 
