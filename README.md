@@ -30,7 +30,7 @@ Propriedades na inserção de uma nova tarefa: Titulo da tarefa, descrição da 
 
 <br>
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Linguagem de Programação**: C#
 - **Fundamentos**: Programação orientada a objetos, Interface, Herança, estruturação de dados, listas, e lógica de programação.
 - **Bibliotecas Utilizadas**: `System`, `System.Collections.Generic`
@@ -57,7 +57,7 @@ Classe Program/Main
 Contém o método Main que gerencia a interação com o usuário e executa as operações disponíveis.
 
 
-##Contato:
+## Contato:
 
 Email: parthur207@gmail.com 
 Telefone: 31 9 8965-0406
