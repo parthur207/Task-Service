@@ -14,12 +14,12 @@ Propriedades na inserção de uma nova tarefa: Titulo da tarefa, descrição da 
 <br>
 
 ### 2. Descarte de tarefas
-O segundo método presente é a remoção de tarefas pelo informe de seu nome, isso fornece ao usuário a tomada de decisão por tarefas irrelevantes, concluídas ou errôneas.
+- O segundo método presente é a remoção de tarefas pelo informe de seu nome, isso fornece ao usuário a tomada de decisão por tarefas irrelevantes, concluídas ou errôneas.
 
 <br>
 
 ### 3. Atualização do status das tarefas
-Oferece a possibilidade de mudança do status da tarefa após sua conclusão, podendo alterar seu status para "Finalizada", ou manter como "pendente".
+- Oferece a possibilidade de mudança do status da tarefa após sua conclusão, podendo alterar seu status para "Finalizada", ou manter como "pendente".
 
 <br>
 
